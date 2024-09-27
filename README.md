@@ -1,1 +1,1 @@
-# Adult-Census-Income-Prediction
+# Income-Prediction
